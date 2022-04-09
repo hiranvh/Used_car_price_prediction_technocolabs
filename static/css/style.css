@@ -1,0 +1,38 @@
+body{
+    
+    color: #333;
+    background-image: url(/static/photos/back5png.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+h1 {
+	color: #333;
+	font: 200 2.125rem/.75rem "Open Sans", sans-serif;
+    text-align: center;
+}
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing:content-box;
+}
+
+
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
+
+.col-md-10 form-group{
+    width: 20%;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 13px;
+    border-style: solid;
+    font: 100 0.875rem/1.875rem "Open Sans", sans-serif;
+
+}
