@@ -43,7 +43,7 @@ We utilized several classic and state-of-the-art methods,including ensemble lear
 15. [Conclusion](#data-conc)
 
 
-## About Data 
+## About Dataset
 
 This dataset consists of 8 input variables and a target variable. It has 6 categorical variables and 2 numeric variables. The detailed description of all the features are as follows:
 
