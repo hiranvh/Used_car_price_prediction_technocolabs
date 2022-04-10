@@ -47,15 +47,15 @@ We utilized several classic and state-of-the-art methods,including ensemble lear
 
 This dataset consists of 8 input variables and a target variable. It has 6 categorical variables and 2 numeric variables. The detailed description of all the features are as follows:
 
-**1 Price : ** Shows the Price of the used car : This is the Target variable(Numeric)<br>
-**2 Year : ** Shows the Year of manufacturing of the Car : High corelation on the Target variable (Numeric)<br>
-**3 Mileage : ** Shows the Mileage of the used car : High corelation on the Target variable (Numeric)<br>
-**4 City : ** Shows The city which the car is from : Low corelation on the Target variable (Nominal)<br>
-**5 State : ** Shows The State which the car is from : Low corelation on the Target variable (Nominal)<br>
-**6 Make : ** shows who is the Manufacturer of the car : High corelation on the Target variable(Nominal)<br>
-**7 Model : ** Shows which model is the car : High corelation on the Target variable (Nominal)<br>
-**8 Usage_level : ** Shows the usge level of the car : Low,Medium,High : High corelation on the Target variable(Nominal)<br>
-**9 City_imporatnce : ** Shows which the car is have any city importance : Low corelation on the Target variable (Nominal)<br>
+* Price : Shows the Price of the used car : This is the Target variable(Numeric)<br>
+* Year : Shows the Year of manufacturing of the Car : High corelation on the Target variable (Numeric)<br>
+* Mileage : Shows the Mileage of the used car : High corelation on the Target variable (Numeric)<br>
+* City : Shows The city which the car is from : Low corelation on the Target variable (Nominal)<br>
+* State : Shows The State which the car is from : Low corelation on the Target variable (Nominal)<br>
+* Make : shows who is the Manufacturer of the car : High corelation on the Target variable(Nominal)<br>
+* Model : Shows which model is the car : High corelation on the Target variable (Nominal)<br>
+* Usage_level : Shows the usge level of the car : Low,Medium,High : High corelation on the Target variable(Nominal)<br>
+* City_imporatnce : Shows which the car is have any city importance : Low corelation on the Target variable (Nominal)<br>
 
 ### Target variable
 * Price :
