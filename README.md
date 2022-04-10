@@ -85,3 +85,7 @@ I also reccommend to install Anaconda, a pre-packaged Python distribution that c
 
  ## URL Of My Machine Learning Journey deployment in Heroku
     https://carpricepredict-technocolab.herokuapp.com/
+    
+    
+ ## Thanks Everyone :slightly_smiling_face:
+   - [HIRAN.VH](https://www.linkedin.com/in/hiranvh/)
