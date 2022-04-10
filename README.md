@@ -80,7 +80,7 @@ This project requires Python 3.x and the following Python libraries should be in
 I also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute [IPython Notebook](http://ipython.org/notebook.html).
 
 ## Conclusion
- After going through all the steps above I concluded my project by deploying our model in Heroku using Flask and Python. 
+ After going through all the steps above I concluded my project by deploying my model in Heroku using Flask and Python. 
  Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 
  ## URL Of My Machine Learning Journey deployment in Heroku
